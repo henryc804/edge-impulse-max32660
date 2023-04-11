@@ -1,0 +1,10 @@
+build/
+.vscode/
+.settings/
+
+.DS_Store
+
+../.metadata
+
+.d
+.o
